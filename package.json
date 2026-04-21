@@ -1,0 +1,19 @@
+{
+  "name": "gmart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsx src/quickstart.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.90.0",
+    "@types/node": "^25.6.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  }
+}
